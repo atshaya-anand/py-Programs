@@ -1,4 +1,4 @@
 # py-Programs
-Repository for practicing python programming language 
+Repository for Practicing Python programming language 
 ## IDE used
 Jupyter Notebook
